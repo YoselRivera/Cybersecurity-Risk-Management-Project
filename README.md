@@ -1,10 +1,11 @@
-# Cybersecurity-Risk-Management-Project
-Team project demonstrating cybersecurity risk management, NIST compliance, risk assessment, business impact analysis, and disaster recovery planning.
+# Cybersecurity Risk Management Project
 
-Developed collaboratively as part of a team to design a fictional defense technology company modeled after real world organizations while developing a comprehensive cybersecurity compliance program. Conducted risk assessments, business impact analyses, and disaster recovery planning using NIST cybersecurity frameworks. Contributed to technical documentation, security policy development, and presentations communicating compliance strategies and recommendations. This project strengthened my analytical thinking, problem solving, technical communication, and understanding of cybersecurity governance and risk management.
+## Overview
 
-Team Members:
-1. Yosel Rivera
-2. Ari Betan Snook
-3. Maria Bellamy
-4. Chase Taunton​
+This project was developed collaboratively as part of a university cybersecurity risk management course. Our team designed a fictional defense technology organization modeled after real-world defense contractors and developed a comprehensive cybersecurity risk management and compliance program based on industry best practices.
+
+The project focuses on applying NIST cybersecurity frameworks, conducting risk assessments and business impact analyses, developing disaster recovery and business continuity strategies, and communicating security recommendations through technical documentation and presentations.
+
+## Topics Covered
+
+
